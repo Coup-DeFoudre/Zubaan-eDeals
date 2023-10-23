@@ -1,0 +1,2 @@
+// config.js
+export const STRIPE_PUBLIC_KEY = 'pk_test_51NrEO7SDr0bHNnIPscasXEbsBmz2aA3c0OJyYQVAZXQUgfwKuxn99M12L2Cvgzd34g0ovO1ezKSNeXB17djPS8K8004p1EZImI';
